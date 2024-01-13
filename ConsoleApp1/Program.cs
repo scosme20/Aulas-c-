@@ -23,3 +23,5 @@ Console.WriteLine(x.ToString("F2"));
 Console.WriteLine(x.ToString("F4"));
 
 Console.WriteLine(x.ToString("F2", CultureInfo.InvariantCulture));
+
+Console.WriteLine("Commit mudança");
